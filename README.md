@@ -101,4 +101,9 @@ The original modem passed an actual reboot test and an ordinary save after reboo
 
 After a reviewed rebuild, update `helperSha256` in `manifest.json` using the printed hash. Do not alter the firmware fingerprints to bypass compatibility.
 
+## Disclaimer
+This toolkit is provided “as is,” without warranty of any kind. Use it entirely at your own risk. It modifies modem configuration and key storage. Using it may cause loss of settings, loss of connectivity, or permanently render your modem unusable (“brick” it).
+The authors and contributors accept no responsibility or liability for damage, data loss, service interruptions, or other consequences arising from its use, to the fullest extent permitted by applicable law.
+Compatibility is limited to the firmware versions explicitly supported by this toolkit. Back up your configuration and keys, read the instructions, and verify compatibility before proceeding.
+
 MIT license applies to this toolkit's original code. No affiliation with or endorsement by Huawei is implied.
