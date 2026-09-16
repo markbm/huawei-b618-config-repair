@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "testedModel": "HUAWEI B618s-22d",
+  "reportedSoftwareVersion": "81.198.11.00.00",
+  "reportedWebUIVersion": "81.100.31.01.91",
+  "helperSha256": "8ED6AD78CFFC51ED682AF08824C46F67B9FD4F6C62E63028BC6734873694FDF1",
+  "firmware": [
+    {
+      "path": "/app/bin/dbd",
+      "sha256": "867C5238027C8605B25CAEDAFE0C7B21627AD620A80914C65DE5BDACAB828276"
+    },
+    {
+      "path": "/app/lib/libsecapi.so",
+      "sha256": "B9882DF7E4E387AB06E3FF356D0504E358152E3FBE3BB392F0220680CC9795C8"
+    },
+    {
+      "path": "/app/lib/libdbload.so",
+      "sha256": "26ED2DFB89B939D7D37403CB16D108CF3EAC79FA25A7490A4C17E1E9D1891B43"
+    },
+    {
+      "path": "/system/lib/libc.so",
+      "sha256": "57394DD50A258C37DFFE915A8CBFC6BE008F4E6583EE7883DA47A02D505E2674"
+    },
+    {
+      "path": "/system/lib/libdl.so",
+      "sha256": "55AAD370A5AA69688DB9D6CE8E5AD50BE4C6445B3D1063AC0469D7E45E230A5B"
+    }
+  ]
+}
